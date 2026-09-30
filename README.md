@@ -1,0 +1,1 @@
+Ben Ayşenur Kurt. İstanbul 29 Mayıs Üniversitesi İktisadi ve İdari Bilimler Fakültesi Yönetim Bilişim Sistemleri bölümü öğrencisiyim. Java programlama dilini öğreniyorum ve bu repository'yi ders kapsamında oluşturuyorum. Bu repository, Java ile yaptığım ilk uygulamayı içermektedir.
